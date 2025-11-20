@@ -15,5 +15,5 @@ Blackjack game in python
 * Tekst-gebaseerd in de terminal.
 * Verschillende functies inbegrepen.
 * ⚠️ Voortgang slaat NIET op.
-* Gemaakt in Visual Studio Code, 100% Python.
+* Gemaakt in Visual Studio Code
 - - -
